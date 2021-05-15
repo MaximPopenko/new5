@@ -7,6 +7,10 @@ public class Main {
 
 
         System.out.println("NewBr");
+        System.out.println("NewBr");
+        System.out.println("NewBr");
+        System.out.println("NewBr");
+        System.out.println("NewBr");
 
 
 
